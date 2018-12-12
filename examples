@@ -1,0 +1,11 @@
+#URL="ftp://www.example.com/some/path"
+#URL="http://www.example.com:1234/some/path"
+#URL="http://www.example.com/some/path"
+#URL="http://www.example.com/some/path"
+#URL='http://example.com'
+
+#URL='https://example.com'
+#URL='http://example.com:1234/some/path'
+#URL='http://user:pass@example.com:1234/some/path'
+#URL='http://user:pass@example.com:1234/some/path#fragment'
+URL='http://user:pass@example.com:1234/some/path#fragment?params=true'
